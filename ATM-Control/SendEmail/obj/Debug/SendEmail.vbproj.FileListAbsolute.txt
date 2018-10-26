@@ -1,0 +1,10 @@
+C:\ATMControl\ATM-Control\SendEmail\bin\Debug\SendEmail.exe.config
+C:\ATMControl\ATM-Control\SendEmail\bin\Debug\SendEmail.exe
+C:\ATMControl\ATM-Control\SendEmail\bin\Debug\SendEmail.pdb
+C:\ATMControl\ATM-Control\SendEmail\bin\Debug\SendEmail.xml
+C:\ATMControl\ATM-Control\SendEmail\obj\Debug\SendEmail.Form1.resources
+C:\ATMControl\ATM-Control\SendEmail\obj\Debug\SendEmail.Resources.resources
+C:\ATMControl\ATM-Control\SendEmail\obj\Debug\SendEmail.vbproj.GenerateResource.Cache
+C:\ATMControl\ATM-Control\SendEmail\obj\Debug\SendEmail.exe
+C:\ATMControl\ATM-Control\SendEmail\obj\Debug\SendEmail.xml
+C:\ATMControl\ATM-Control\SendEmail\obj\Debug\SendEmail.pdb
